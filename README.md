@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Mingqi Lu
 
-<!--
-**lmqqqqqq/lmqqqqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :star: I am a senior student majoring in Computer Science and Technology at [Tongji University](https://en.tongji.edu.cn/p/#/).
 
-Here are some ideas to get you started:
+- :thinking: I’m broadly interested in the intersection of computer systems and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Efficient machine learning systems
+
+  - Accelerating machine learning training
+
+- :seedling: Looking for internships that end in May 2024.
+
+- 💬 More about me ([website](https://lmqqqqqq.github.io/))
+
