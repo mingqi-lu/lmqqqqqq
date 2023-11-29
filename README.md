@@ -14,10 +14,14 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-Markdown   14 mins         ██████████████████▒░░░░░░   73.52 %
-Git        4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
-YAML       1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+```rust
+From: 21 November 2023 - To: 28 November 2023
+
+Total Time: 19 mins
+
+Markdown   14 mins         >>>>>>>>>>>>>>>>>>-------   73.52 %
+Git        4 mins          >>>>>--------------------   21.15 %
+YAML       1 min           >------------------------   05.33 %
 ```
 
 <!--END_SECTION:waka-->
