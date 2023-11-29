@@ -32,5 +32,5 @@ jobs:
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: Jerry Ji # optional
-          AUTHOR_EMAIL: jerryji0414@outlook.com # optional
+          AUTHOR_NAME: Eric Lu # optional
+          AUTHOR_EMAIL: 2940436026@qq.com # optional
