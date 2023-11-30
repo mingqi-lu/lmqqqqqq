@@ -15,13 +15,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 November 2023 - To: 28 November 2023
+From: 22 November 2023 - To: 29 November 2023
 
-Total Time: 19 mins
+Total Time: 43 mins
 
-Markdown   14 mins         >>>>>>>>>>>>>>>>>>-------   73.52 %
-Git        4 mins          >>>>>--------------------   21.15 %
-YAML       1 min           >------------------------   05.33 %
+Markdown   32 mins         >>>>>>>>>>>>>>>>>>>------   75.65 %
+Java       5 mins          >>>----------------------   12.10 %
+Git        4 mins          >>-----------------------   09.78 %
+YAML       1 min           >------------------------   02.46 %
 ```
 
 <!--END_SECTION:waka-->
