@@ -15,15 +15,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 February 2024 - To: 28 February 2024
+From: 22 February 2024 - To: 29 February 2024
 
 Total Time: 3 hrs 11 mins
 
-C++     1 hr 37 mins    >>>>>>>>>>>>>------------   51.05 %
-JSON    1 hr 1 min      >>>>>>>>-----------------   31.88 %
-CMake   23 mins         >>>----------------------   12.13 %
-Text    9 mins          >------------------------   04.77 %
-HTML    0 secs          -------------------------   00.17 %
+C++     1 hr 37 mins    >>>>>>>>>>>>>------------   51.13 %
+JSON    1 hr 1 min      >>>>>>>>-----------------   31.93 %
+CMake   23 mins         >>>----------------------   12.15 %
+Text    9 mins          >------------------------   04.78 %
 ```
 
 <!--END_SECTION:waka-->
