@@ -15,13 +15,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 March 2024 - To: 10 March 2024
+From: 04 March 2024 - To: 11 March 2024
 
-Total Time: 2 hrs 45 mins
+Total Time: 1 hr 30 mins
 
-C++          1 hr 27 mins    >>>>>>>>>>>--------------   44.13 %
-C            38 mins         >>>>>--------------------   19.51 %
-Other        31 mins         >>>>---------------------   16.14 %
+C++          1 hr 27 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   96.61 %
+CMake        2 mins          >------------------------   02.33 %
+Git Config   0 secs          -------------------------   00.98 %
+Bash         0 secs          -------------------------   00.07 %
 ```
 
 <!--END_SECTION:waka-->
