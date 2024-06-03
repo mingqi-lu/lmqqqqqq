@@ -15,11 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 May 2024 - To: 26 May 2024
+From: 26 May 2024 - To: 02 June 2024
 
-Total Time: 0 secs
+Total Time: 4 hrs 7 mins
 
-Other        0 secs          >>>>>>>>>>>>>>>>---------   63.32 %
+Text       3 hrs 4 mins    >>>>>>>>>>>>>>>>>>-------   70.94 %
+C          59 mins         >>>>>>-------------------   23.09 %
+Other      12 mins         >------------------------   04.94 %
 ```
 
 <!--END_SECTION:waka-->
