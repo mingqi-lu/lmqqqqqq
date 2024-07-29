@@ -15,14 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 July 2024 - To: 21 July 2024
+From: 21 July 2024 - To: 28 July 2024
 
-Total Time: 19 hrs 53 mins
+Total Time: 2 hrs 26 mins
 
-C          17 hrs 58 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.88 %
-Text       1 hr 49 mins    >>-----------------------   09.13 %
-Makefile   6 mins          -------------------------   00.53 %
-Other      5 mins          -------------------------   00.46 %
+C      2 hrs 26 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.51 %
+Text   0 secs          -------------------------   00.49 %
 ```
 
 <!--END_SECTION:waka-->
