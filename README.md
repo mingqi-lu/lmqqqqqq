@@ -15,11 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 August 2024 - To: 01 September 2024
+From: 01 September 2024 - To: 08 September 2024
 
-Total Time: 2 mins
+Total Time: 5 mins
 
-Bash   2 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Go   4 mins          >>>>>>>>>>>>>>>>>>-------   71.59 %
+C    1 min           >>>>>>>------------------   28.41 %
 ```
 
 <!--END_SECTION:waka-->
