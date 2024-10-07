@@ -15,15 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 22 September 2024 - To: 29 September 2024
+From: 29 September 2024 - To: 06 October 2024
 
-Total Time: 10 hrs 18 mins
+Total Time: 16 hrs 8 mins
 
-Go           9 hrs 46 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   94.81 %
-Bash         17 mins         >------------------------   02.90 %
-Markdown     12 mins         -------------------------   01.99 %
-C++          1 min           -------------------------   00.29 %
-SSH Config   0 secs          -------------------------   00.00 %
+Go     14 hrs 55 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.47 %
+Bash   47 mins         >------------------------   04.87 %
+C++    25 mins         >------------------------   02.66 %
 ```
 
 <!--END_SECTION:waka-->
