@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 13 October 2024 - To: 20 October 2024
+From: 20 October 2024 - To: 27 October 2024
 
-Total Time: 3 hrs 49 mins
+Total Time: 19 hrs 20 mins
 
-C++        3 hrs 39 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.52 %
-Markdown   10 mins         >------------------------   04.43 %
-Other      0 secs          -------------------------   00.05 %
+Go           18 hrs 22 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.96 %
+Markdown     43 mins         >------------------------   03.68 %
+Other        13 mins         -------------------------   01.15 %
 ```
 
 <!--END_SECTION:waka-->
