@@ -15,15 +15,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 February 2025 - To: 23 February 2025
+From: 23 February 2025 - To: 02 March 2025
 
-Total Time: 2 hrs 33 mins
+Total Time: 7 hrs 37 mins
 
-Cuda         1 hr 15 mins    >>>>>>>>>>>>-------------   49.34 %
-Python       1 hr 14 mins    >>>>>>>>>>>>-------------   48.57 %
-Text         2 mins          -------------------------   01.76 %
-SSH Config   0 secs          -------------------------   00.32 %
-Bash         0 secs          -------------------------   00.01 %
+Python       7 hrs 22 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.58 %
+Markdown     9 mins          >------------------------   02.04 %
+JSON         6 mins          -------------------------   01.36 %
+SSH Config   0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
