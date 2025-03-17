@@ -15,15 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 March 2025 - To: 09 March 2025
+From: 09 March 2025 - To: 16 March 2025
 
-Total Time: 11 hrs 21 mins
+Total Time: 10 hrs 9 mins
 
-Python     11 hrs 20 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   99.91 %
-Markdown   0 secs          -------------------------   00.05 %
-Rust       0 secs          -------------------------   00.03 %
-YAML       0 secs          -------------------------   00.01 %
-INI        0 secs          -------------------------   00.00 %
+Python       9 hrs 48 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   94.62 %
+Other        12 mins         >------------------------   02.04 %
 ```
 
 <!--END_SECTION:waka-->
