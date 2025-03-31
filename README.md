@@ -15,15 +15,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 March 2025 - To: 23 March 2025
+From: 23 March 2025 - To: 30 March 2025
 
-Total Time: 30 hrs
+Total Time: 13 hrs 45 mins
 
-Python       19 hrs 45 mins  >>>>>>>>>>>>>>>>---------   65.76 %
-Cuda         6 hrs 54 mins   >>>>>>-------------------   22.99 %
-YAML         1 hr 57 mins    >>-----------------------   06.54 %
-Markdown     1 hr 13 mins    >------------------------   04.10 %
-Git Config   4 mins          -------------------------   00.26 %
+Python       13 hrs 6 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.35 %
+TOML         19 mins         >------------------------   02.37 %
+Java         16 mins         -------------------------   01.97 %
+SSH Config   2 mins          -------------------------   00.31 %
 ```
 
 <!--END_SECTION:waka-->
