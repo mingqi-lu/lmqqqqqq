@@ -15,15 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 27 April 2025 - To: 04 May 2025
+From: 04 May 2025 - To: 11 May 2025
 
-Total Time: 9 hrs 23 mins
+Total Time: 0 secs
 
-Python     8 hrs           >>>>>>>>>>>>>>>>>>>>>----   85.13 %
-Solidity   45 mins         >>-----------------------   08.05 %
-Markdown   25 mins         >------------------------   04.46 %
-YAML       8 mins          -------------------------   01.45 %
-Text       4 mins          -------------------------   00.78 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
