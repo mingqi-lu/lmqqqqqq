@@ -15,11 +15,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 August 2025 - To: 24 August 2025
+From: 24 August 2025 - To: 31 August 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 58 mins
 
-No activity tracked
+JSON    1 hr 5 mins     >>>>>>>>>>>>>>-----------   55.12 %
+C       43 mins         >>>>>>>>>----------------   36.88 %
+C++     7 mins          >>-----------------------   06.02 %
+CMake   2 mins          -------------------------   01.98 %
 ```
 
 <!--END_SECTION:waka-->
