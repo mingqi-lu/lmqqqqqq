@@ -15,14 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 31 August 2025 - To: 07 September 2025
+From: 07 September 2025 - To: 14 September 2025
 
-Total Time: 3 hrs 25 mins
+Total Time: 6 hrs 3 mins
 
-C          3 hrs 18 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.90 %
-Text       3 mins          -------------------------   01.71 %
-Python     2 mins          -------------------------   01.08 %
-Other      1 min           -------------------------   00.66 %
+C++        5 hrs 35 mins   >>>>>>>>>>>>>>>>>>>>>----   83.86 %
+Other      37 mins         >>-----------------------   09.26 %
 ```
 
 <!--END_SECTION:waka-->
