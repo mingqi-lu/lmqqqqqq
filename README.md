@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 October 2025 - To: 12 October 2025
+From: 12 October 2025 - To: 19 October 2025
 
-Total Time: 9 hrs 21 mins
+Total Time: 7 hrs 48 mins
 
-C++          5 hrs 50 mins   >>>>>>>>>>>>>>>----------   61.62 %
-C            3 hrs           >>>>>>>>-----------------   31.65 %
-AGS Script   10 mins         -------------------------   01.78 %
-Python       8 mins          -------------------------   01.45 %
-Other        7 mins          -------------------------   01.40 %
+C++      5 hrs 30 mins   >>>>>>>>>>>>>>>>>>-------   70.28 %
+Python   1 hr 57 mins    >>>>>>-------------------   25.03 %
+Java     9 mins          -------------------------   01.92 %
+Cuda     5 mins          -------------------------   01.18 %
+Text     4 mins          -------------------------   00.90 %
 ```
 
 <!--END_SECTION:waka-->
